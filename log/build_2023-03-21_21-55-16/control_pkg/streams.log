@@ -1,0 +1,20 @@
+[1.358s] Invoking command in '/home/lorena/my_ros2_ws/src/control_pkg': PYTHONPATH=/home/lorena/my_ros2_ws/build/control_pkg/prefix_override:/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_pkg build --build-base /home/lorena/my_ros2_ws/build/control_pkg/build install --record /home/lorena/my_ros2_ws/build/control_pkg/install.log --install-scripts $base/lib/control_pkg --single-version-externally-managed
+[1.542s] running egg_info
+[1.542s] writing ../../build/control_pkg/control_pkg.egg-info/PKG-INFO
+[1.543s] writing dependency_links to ../../build/control_pkg/control_pkg.egg-info/dependency_links.txt
+[1.543s] writing entry points to ../../build/control_pkg/control_pkg.egg-info/entry_points.txt
+[1.543s] writing requirements to ../../build/control_pkg/control_pkg.egg-info/requires.txt
+[1.543s] writing top-level names to ../../build/control_pkg/control_pkg.egg-info/top_level.txt
+[1.579s] reading manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+[1.580s] writing manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+[1.580s] running build
+[1.581s] running build_py
+[1.581s] running install
+[1.581s] running install_lib
+[1.581s] running install_data
+[1.582s] running install_egg_info
+[1.585s] removing '/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.585s] Copying ../../build/control_pkg/control_pkg.egg-info to /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg-0.0.0-py3.8.egg-info
+[1.586s] running install_scripts
+[1.610s] writing list of installed files to '/home/lorena/my_ros2_ws/build/control_pkg/install.log'
+[1.651s] Invoked command in '/home/lorena/my_ros2_ws/src/control_pkg' returned '0': PYTHONPATH=/home/lorena/my_ros2_ws/build/control_pkg/prefix_override:/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_pkg build --build-base /home/lorena/my_ros2_ws/build/control_pkg/build install --record /home/lorena/my_ros2_ws/build/control_pkg/install.log --install-scripts $base/lib/control_pkg --single-version-externally-managed

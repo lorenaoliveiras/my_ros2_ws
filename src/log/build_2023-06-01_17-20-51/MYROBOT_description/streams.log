@@ -1,0 +1,26 @@
+[0.195s] Invoking command in '/home/lorena/my_ros2_ws/src/build/MYROBOT_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/src/build/MYROBOT_description -- -j12 -l12
+[0.520s] Invoked command in '/home/lorena/my_ros2_ws/src/build/MYROBOT_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/src/build/MYROBOT_description -- -j12 -l12
+[0.560s] Invoking command in '/home/lorena/my_ros2_ws/src/build/MYROBOT_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/src/build/MYROBOT_description
+[0.577s] -- Install configuration: ""
+[0.577s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf
+[0.578s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode
+[0.578s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/c_cpp_properties.json
+[0.578s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/settings.json
+[0.581s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/MYROBOT.urdf
+[0.582s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/model.config
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/package_run_dependencies/MYROBOT_description
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/parent_prefix_path/MYROBOT_description
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.sh
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.dsv
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/path.sh
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/path.dsv
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.bash
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.sh
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.zsh
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.dsv
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/package.dsv
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/packages/MYROBOT_description
+[0.583s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake
+[0.584s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig-version.cmake
+[0.584s] -- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/package.xml
+[0.638s] Invoked command in '/home/lorena/my_ros2_ws/src/build/MYROBOT_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/src/build/MYROBOT_description

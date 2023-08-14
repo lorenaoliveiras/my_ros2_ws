@@ -1,0 +1,44 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lorena/my_ros2_ws/build/turtlebot3_navigation2
+-- Install configuration: ""
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+-- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+-- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml

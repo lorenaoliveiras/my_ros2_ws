@@ -1,0 +1,9 @@
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/uninstall.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/turtlebot3_description_uninstall.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/test.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/edit_cache.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/rebuild_cache.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/list_install_components.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/install.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/install/local.dir
+/home/lorena/my_ros2_ws/build/turtlebot3_description/CMakeFiles/install/strip.dir

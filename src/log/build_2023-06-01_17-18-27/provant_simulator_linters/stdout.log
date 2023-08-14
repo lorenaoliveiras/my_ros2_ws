@@ -1,0 +1,7 @@
+-- Found ament_cmake_core: 0.9.11 (/opt/ros/foxy/share/ament_cmake_core/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_cmake_export_dependencies: 0.9.11 (/opt/ros/foxy/share/ament_cmake_export_dependencies/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lorena/my_ros2_ws/src/build/provant_simulator_linters

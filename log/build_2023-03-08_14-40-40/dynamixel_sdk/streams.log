@@ -1,0 +1,82 @@
+[0.053s] Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/dynamixel_sdk
+[0.528s] -- The C compiler identification is GNU 9.4.0
+[0.528s] -- The CXX compiler identification is GNU 9.4.0
+[0.528s] -- Check for working C compiler: /usr/bin/cc
+[0.528s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.528s] -- Detecting C compiler ABI info
+[0.529s] -- Detecting C compiler ABI info - done
+[0.529s] -- Detecting C compile features
+[0.530s] -- Detecting C compile features - done
+[0.530s] -- Check for working CXX compiler: /usr/bin/c++
+[0.530s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.530s] -- Detecting CXX compiler ABI info
+[0.530s] -- Detecting CXX compiler ABI info - done
+[0.530s] -- Detecting CXX compile features
+[0.530s] -- Detecting CXX compile features - done
+[0.531s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.531s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.531s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.717s] -- Configuring done
+[0.722s] -- Generating done
+[0.723s] -- Build files have been written to: /home/lorena/my_ros2_ws/build/dynamixel_sdk
+[0.728s] Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/dynamixel_sdk
+[0.731s] Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/dynamixel_sdk -- -j12 -l12
+[0.777s] [35m[1mScanning dependencies of target dynamixel_sdk[0m
+[0.795s] [ 30%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/protocol1_packet_handler.cpp.o[0m
+[0.795s] [ 30%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/packet_handler.cpp.o[0m
+[0.795s] [ 30%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/protocol2_packet_handler.cpp.o[0m
+[0.796s] [ 40%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_sync_read.cpp.o[0m
+[0.799s] [ 50%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_sync_write.cpp.o[0m
+[0.805s] [ 60%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_bulk_read.cpp.o[0m
+[0.816s] [ 70%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/group_bulk_write.cpp.o[0m
+[0.835s] [ 80%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/port_handler.cpp.o[0m
+[0.839s] [ 90%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/port_handler_linux.cpp.o[0m
+[1.164s] [01m[K/home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk/src/dynamixel_sdk/group_bulk_read.cpp:[m[K In member function ‘[01m[Kbool dynamixel::GroupBulkRead::getError(uint8_t, uint8_t*)[m[K’:
+[1.164s] [01m[K/home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk/src/dynamixel_sdk/group_bulk_read.cpp:235:19:[m[K [01;35m[Kwarning: [m[Ksuggest parentheses around assignment used as truth value [[01;35m[K-Wparentheses[m[K]
+[1.164s]   235 |   return [01;35m[Kerror[0] = error_list_[id][0][m[K;
+[1.164s]       |          [01;35m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[1.164s] [01m[K/home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk/src/dynamixel_sdk/group_sync_read.cpp:[m[K In member function ‘[01m[Kbool dynamixel::GroupSyncRead::getError(uint8_t, uint8_t*)[m[K’:
+[1.164s] [01m[K/home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk/src/dynamixel_sdk/group_sync_read.cpp:204:19:[m[K [01;35m[Kwarning: [m[Ksuggest parentheses around assignment used as truth value [[01;35m[K-Wparentheses[m[K]
+[1.164s]   204 |   return [01;35m[Kerror[0] = error_list_[id][0][m[K;
+[1.164s]       |          [01;35m[K~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[1.463s] [100%] [32m[1mLinking CXX shared library libdynamixel_sdk.so[0m
+[1.556s] [100%] Built target dynamixel_sdk
+[1.564s] Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/dynamixel_sdk -- -j12 -l12
+[1.592s] Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/dynamixel_sdk
+[1.598s] -- Install configuration: ""
+[1.598s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include/
+[1.598s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk
+[1.598s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_arduino.h
+[1.598s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/dynamixel_sdk.h
+[1.598s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_read.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol1_packet_handler.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol2_packet_handler.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_write.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_write.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/packet_handler.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_linux.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_mac.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_read.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_windows.h
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/lib/libdynamixel_sdk.so
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.sh
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.dsv
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk
+[1.599s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.sh
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.dsv
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.sh
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.dsv
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.bash
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.sh
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.zsh
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.dsv
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.dsv
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/ament_index/resource_index/packages/dynamixel_sdk
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_libraries-extras.cmake
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+[1.600s] -- Installing: /home/lorena/my_ros2_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.xml
+[1.605s] Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/dynamixel_sdk

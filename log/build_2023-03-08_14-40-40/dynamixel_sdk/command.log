@@ -1,0 +1,6 @@
+Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/dynamixel_sdk
+Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/dynamixel_sdk
+Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/dynamixel_sdk -- -j12 -l12
+Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/dynamixel_sdk -- -j12 -l12
+Invoking command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/dynamixel_sdk
+Invoked command in '/home/lorena/my_ros2_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/dynamixel_sdk

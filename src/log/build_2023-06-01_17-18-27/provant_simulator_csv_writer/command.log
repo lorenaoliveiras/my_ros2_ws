@@ -1,0 +1,1 @@
+Invoking command in '/home/lorena/my_ros2_ws/src/build/provant_simulator_csv_writer': /usr/bin/cmake /home/lorena/my_ros2_ws/src/ProVANT-Simulator_Developer/provant_simulator_utils/provant_simulator_csv_writer -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/src/install/provant_simulator_csv_writer

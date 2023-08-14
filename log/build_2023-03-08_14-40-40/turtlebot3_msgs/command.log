@@ -1,0 +1,6 @@
+Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_msgs
+Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_msgs
+Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_msgs -- -j12 -l12
+Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_msgs -- -j12 -l12
+Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_msgs
+Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_msgs

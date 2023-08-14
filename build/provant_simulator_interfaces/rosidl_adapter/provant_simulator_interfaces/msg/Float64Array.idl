@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from provant_simulator_interfaces/msg/Float64Array.msg
+// generated code does not contain a copyright notice
+
+#include "provant_simulator_interfaces/msg/Header.idl"
+
+module provant_simulator_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      " This file is part of the ProVANT simulator project." "\n"
+      " Licensed under the terms of the MIT open source license. More details at" "\n"
+      " https: //github.com/Guiraffo/ProVANT-Simulator/blob/master/LICENSE.md")
+    struct Float64Array {
+      @verbatim (language="comment", text=
+        " Contains information about the generation of this message")
+      provant_simulator_interfaces::msg::Header pheader;
+
+      @verbatim (language="comment", text=
+        " An unbounded array of double precision floating point data")
+      sequence<double> data;
+    };
+  };
+};

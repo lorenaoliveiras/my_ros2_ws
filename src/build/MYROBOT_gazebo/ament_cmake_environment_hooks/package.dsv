@@ -1,0 +1,4 @@
+source;share/MYROBOT_gazebo/local_setup.bash
+source;share/MYROBOT_gazebo/local_setup.dsv
+source;share/MYROBOT_gazebo/local_setup.sh
+source;share/MYROBOT_gazebo/local_setup.zsh

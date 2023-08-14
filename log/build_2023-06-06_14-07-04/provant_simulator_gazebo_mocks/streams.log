@@ -1,0 +1,141 @@
+[0.097s] Invoking command in '/home/lorena/my_ros2_ws/build/provant_simulator_gazebo_mocks': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/provant_simulator_linters:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/provant_simulator_linters:/home/lorena/my_ros2_ws/install/turtlebot3:/home/lorena/my_ros2_ws/install/turtlebot3_simulations:/home/lorena/my_ros2_ws/install/turtlebot3_bringup:/home/lorena/my_ros2_ws/install/turtlebot3_node:/home/lorena/my_ros2_ws/install/turtlebot3_navigation2:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_description:/home/lorena/my_ros2_ws/install/turtlebot3_cartographer:/home/lorena/my_ros2_ws/install/dynamixel_sdk:/home/lorena/my_ros2_ws/install/MYROBOT_gazebo:/home/lorena/my_ros2_ws/install/MYROBOT_description:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_tests/provant_simulator_gazebo_mocks -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/provant_simulator_gazebo_mocks
+[0.192s] -- The CXX compiler identification is GNU 9.4.0
+[0.201s] -- Detecting CXX compiler ABI info
+[0.308s] -- Detecting CXX compiler ABI info - done
+[0.320s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.320s] -- Detecting CXX compile features
+[0.321s] -- Detecting CXX compile features - done
+[0.324s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.352s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.352s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.568s] -- Found gazebo_ros: 3.5.3 (/opt/ros/foxy/share/gazebo_ros/cmake)
+[0.611s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.616s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.669s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.693s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.780s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.849s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.852s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.853s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.154s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.154s] -- Looking for pthread_create in pthreads
+[1.324s] -- Looking for pthread_create in pthreads - not found
+[1.324s] -- Looking for pthread_create in pthread
+[1.419s] -- Looking for pthread_create in pthread - found
+[1.420s] -- Found Threads: TRUE  
+[1.542s] [33mCMake Warning (dev) at /usr/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+[1.542s]   The package name passed to `find_package_handle_standard_args` (PkgConfig)
+[1.543s]   does not match the name of the calling package (gazebo).  This can lead to
+[1.543s]   problems in calling code that expects `find_package` result variables
+[1.543s]   (e.g., `_FOUND`) to follow a certain pattern.
+[1.543s] Call Stack (most recent call first):
+[1.543s]   /usr/share/cmake-3.26/Modules/FindPkgConfig.cmake:99 (find_package_handle_standard_args)
+[1.543s]   /usr/lib/x86_64-linux-gnu/cmake/gazebo/gazebo-config.cmake:72 (include)
+[1.543s]   /opt/ros/foxy/share/gazebo_dev/cmake/gazebo_dev-extras.cmake:2 (find_package)
+[1.543s]   /opt/ros/foxy/share/gazebo_dev/cmake/gazebo_devConfig.cmake:41 (include)
+[1.543s]   /opt/ros/foxy/share/gazebo_ros/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package)
+[1.543s]   /opt/ros/foxy/share/gazebo_ros/cmake/gazebo_rosConfig.cmake:41 (include)
+[1.543s]   CMakeLists.txt:15 (find_package)
+[1.543s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.543s] [0m
+[1.543s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[1.544s] -- Checking for module 'bullet>=2.82'
+[1.553s] --   Found bullet, version 2.88
+[1.634s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[1.674s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[1.715s] -- Found assimp: /usr/include (found version "5.0.0") 
+[1.745s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.780s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.802s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[1.809s] -- Looking for ignition-math6 -- found version 6.13.0
+[1.816s] -- Searching for dependencies of ignition-math6
+[1.818s] -- Looking for OGRE...
+[1.818s] -- OGRE_PREFIX_WATCH changed.
+[1.821s] -- Checking for module 'OGRE'
+[1.832s] --   Found OGRE, version 1.9.0
+[1.857s] -- Found Ogre Ghadamon (1.9.0)
+[1.868s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.875s] -- Looking for OGRE_Paging...
+[1.885s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.886s] -- Looking for OGRE_Terrain...
+[1.894s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.894s] -- Looking for OGRE_Property...
+[1.902s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.903s] -- Looking for OGRE_RTShaderSystem...
+[1.911s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.912s] -- Looking for OGRE_Volume...
+[1.920s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.921s] -- Looking for OGRE_Overlay...
+[1.930s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[2.084s] -- Looking for ignition-math6 -- found version 6.13.0
+[2.086s] -- Looking for ignition-transport8 -- found version 8.4.0
+[2.086s] -- Searching for dependencies of ignition-transport8
+[2.099s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[2.107s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[2.111s] -- Checking for module 'libzmq >= 4'
+[2.123s] --   Found libzmq , version 4.3.2
+[2.148s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.153s] -- Checking for module 'uuid'
+[2.163s] --   Found uuid, version 2.34.0
+[2.196s] -- Found UUID: TRUE  
+[2.199s] -- Looking for ignition-msgs5 -- found version 5.11.0
+[2.200s] -- Searching for dependencies of ignition-msgs5
+[2.221s] -- Looking for ignition-math6 -- found version 6.13.0
+[2.226s] -- Checking for module 'tinyxml2'
+[2.237s] --   Found tinyxml2, version 6.2.0
+[2.262s] -- Looking for ignition-msgs5 -- found version 5.11.0
+[2.264s] -- Looking for ignition-common3 -- found version 3.15.1
+[2.264s] -- Searching for dependencies of ignition-common3
+[2.265s] -- Looking for dlfcn.h - found
+[2.266s] -- Looking for libdl - found
+[2.268s] -- Found DL: TRUE  
+[2.276s] -- Searching for <ignition-common3> component [graphics]
+[2.278s] -- Looking for ignition-common3-graphics -- found version 3.15.1
+[2.278s] -- Searching for dependencies of ignition-common3-graphics
+[2.278s] -- Looking for ignition-math6 -- found version 6.13.0
+[2.281s] -- Looking for ignition-fuel_tools4 -- found version 4.8.3
+[2.281s] -- Searching for dependencies of ignition-fuel_tools4
+[2.349s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[2.355s] -- Checking for module 'jsoncpp'
+[2.365s] --   Found jsoncpp, version 1.7.4
+[2.392s] -- Found JSONCPP: TRUE  
+[2.398s] -- Checking for module 'libzip'
+[2.409s] --   Found libzip, version 1.5.1
+[2.436s] -- Found ZIP: TRUE  
+[2.437s] -- Looking for ignition-common3 -- found version 3.15.1
+[2.437s] -- Looking for ignition-math6 -- found version 6.13.0
+[2.437s] -- Looking for ignition-msgs5 -- found version 5.11.0
+[2.438s] -- Gazebo version: 11.12
+[2.443s] -- Found ament_cmake_gmock: 0.9.11 (/opt/ros/foxy/share/ament_cmake_gmock/cmake)
+[2.446s] -- Found gmock sources under '/opt/ros/foxy/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[2.475s] -- The C compiler identification is GNU 9.4.0
+[2.479s] -- Detecting C compiler ABI info
+[2.520s] -- Detecting C compiler ABI info - done
+[2.531s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.531s] -- Detecting C compile features
+[2.531s] -- Detecting C compile features - done
+[2.538s] -- Found ament_cmake_gtest: 0.9.11 (/opt/ros/foxy/share/ament_cmake_gtest/cmake)
+[2.539s] -- Found gtest sources under '/opt/ros/foxy/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[2.555s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.605s] [31mCMake Error at /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package):
+[2.605s]   By not providing "Findament_cmake_clang_format.cmake" in CMAKE_MODULE_PATH
+[2.606s]   this project has asked CMake to find a package configuration file provided
+[2.606s]   by "ament_cmake_clang_format", but CMake did not find one.
+[2.606s] 
+[2.606s]   Could not find a package configuration file provided by
+[2.606s]   "ament_cmake_clang_format" with any of the following names:
+[2.606s] 
+[2.606s]     ament_cmake_clang_formatConfig.cmake
+[2.606s]     ament_cmake_clang_format-config.cmake
+[2.606s] 
+[2.606s]   Add the installation prefix of "ament_cmake_clang_format" to
+[2.606s]   CMAKE_PREFIX_PATH or set "ament_cmake_clang_format_DIR" to a directory
+[2.606s]   containing one of the above files.  If "ament_cmake_clang_format" provides
+[2.606s]   a separate development package or SDK, be sure it has been installed.
+[2.606s] Call Stack (most recent call first):
+[2.606s]   /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig.cmake:41 (include)
+[2.606s]   /opt/ros/foxy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:36 (find_package)
+[2.606s]   CMakeLists.txt:48 (ament_lint_auto_find_test_dependencies)
+[2.607s] 
+[2.607s] [0m
+[2.607s] -- Configuring incomplete, errors occurred!

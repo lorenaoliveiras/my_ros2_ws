@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_example/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages",
+        "/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages"
+    ]
+}

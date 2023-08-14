@@ -1,0 +1,2 @@
+Invoking command in '/home/lorena/my_ros2_ws/src/build/simulator_msgs': /usr/bin/cmake /home/lorena/my_ros2_ws/src/ProVANT-Simulator_Developer/source/Structure/simulator_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/src/install/simulator_msgs
+Invoked command in '/home/lorena/my_ros2_ws/src/build/simulator_msgs' returned '1': /usr/bin/cmake /home/lorena/my_ros2_ws/src/ProVANT-Simulator_Developer/source/Structure/simulator_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/src/install/simulator_msgs

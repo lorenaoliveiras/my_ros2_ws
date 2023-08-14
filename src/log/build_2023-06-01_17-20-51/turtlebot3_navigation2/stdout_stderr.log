@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+-- Installing: /home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml

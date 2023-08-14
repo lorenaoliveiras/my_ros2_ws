@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!--
+This file is part of the ProVANT simulator project.
+Licensed under the terms of the MIT open source license. More details at
+https: //github.com/Guiraffo/ProVANT-Simulator/blob/master/LICENSE.md
+-->
+<package format="3">
+  <name>provant_simulator_linters</name>
+  <version>0.1.0</version>
+  <description>The ProVANT Simulator Linters package provides a set of default ament linters to be used during testing of the core simulator packages.</description>
+  
+  <maintainer email="junioeduardo.morais@ieee.org">Júnio Eduardo de Morais Aquino</maintainer>
+  
+  <license>MIT</license>
+  
+  <url type="website">http://provant.eng.ufmg.br/provantsimulator</url>
+  <url type="repository">https://github.com/Guiraffo/ProVANT-Simulator.git</url>
+  <url type="bugtracker">https://github.com/Guiraffo/ProVANT-Simulator/issues</url>
+  
+  <author email="junioeduardo.morais@ieee.org">Júnio Eduardo de Morais Aquino</author>
+
+  <buildtool_depend>ament_cmake_core</buildtool_depend>
+  <buildtool_depend>ament_cmake_export_dependencies</buildtool_depend>
+  
+  <buildtool_export_depend>ament_cmake_core</buildtool_export_depend>
+
+  <exec_depend>ament_cmake_clang_format</exec_depend>
+  <!-- Disabled because it gives a lot of errors regarding ROS core packages. -->
+  <!--<exec_depend>ament_clang_tidy</exec_depend>-->
+  <!-- <exec_depend>ament_cmake_copyright</exec_depend> -->
+  <exec_depend>ament_cmake_cppcheck</exec_depend>
+  <exec_depend>ament_cmake_cpplint</exec_depend>
+  <!-- Disabled because execution was failing. -->
+  <!-- <exec_depend>ament_cmake_flake8</exec_depend> -->
+  <exec_depend>ament_cmake_lint_cmake</exec_depend>
+  <exec_depend>ament_cmake_pep257</exec_depend>
+  <!-- Disabled due to the incompatibility with clang-format -->
+  <!-- <exec_depend>ament_cmake_uncrustify</exec_depend> -->
+  <exec_depend>ament_cmake_xmllint</exec_depend>
+
+  <!--<exec_depend>ament_cmake_pyflakes</exec_depend>-->
+  <!--<exec_depend>ament_cmake_pycodestyle</exec_depend>-->
+  <!--<exec_depend>ament_cmake_mypy</exec_depend>-->
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_cmake_lint_cmake</test_depend>
+  <test_depend>ament_cmake_xmllint</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

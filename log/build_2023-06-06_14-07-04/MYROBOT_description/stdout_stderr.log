@@ -1,0 +1,44 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+WARNING: Package name "MYROBOT_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lorena/my_ros2_ws/build/MYROBOT_description
+-- Install configuration: ""
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/c_cpp_properties.json
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/settings.json
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/MYROBOT.urdf
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/model.config
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/package_run_dependencies/MYROBOT_description
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/parent_prefix_path/MYROBOT_description
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.bash
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.sh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.zsh
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/package.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/packages/MYROBOT_description
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig-version.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/package.xml

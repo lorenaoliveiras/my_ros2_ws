@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!--
+This file is part of the ProVANT simulator project.
+Licensed under the terms of the MIT open source license. More details at
+https: //github.com/Guiraffo/ProVANT-Simulator/blob/master/LICENSE.md
+Copyright 2022 Guilherme V. Raffo
+-->
+<package format="3">
+  <name>provant_quadrotor</name>
+  <version>2.0.0</version>
+  <description>The ProVANT Quadrotor package contains a URDF model of a quadrotor UAV.</description>
+  
+  <maintainer email="junioeduardo.morais@ieee.org">Júnio Eduardo de Morais Aquino</maintainer>
+  
+  <license>MIT</license>
+  
+  <url type="website">http://provant.eng.ufmg.br/provantsimulator</url>
+  <url type="repository">https://github.com/Guiraffo/ProVANT-Simulator.git</url>
+  <url type="bugtracker">https://github.com/Guiraffo/ProVANT-Simulator/issues</url>
+  
+  <author email="jonatan29campo@gmail.com">Jonatan Mota Campos</author>
+  <author email="junioeduardo.morais@ieee.org">Júnio Eduardo de Morais Aquino</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>provant_simulator_linters</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+    <gazebo_ros gazebo_model_path="${prefix}/gz_model" gazebo_media_path="${prefix}/gz_model" />
+  </export>
+</package>

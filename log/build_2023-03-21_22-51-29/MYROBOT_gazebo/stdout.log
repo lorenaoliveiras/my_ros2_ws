@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/worlds
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/worlds/MYROBOT.world
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/launch
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/launch/gazebo.launch.py
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/launch/MYROBOT.launch.py
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/ament_index/resource_index/package_run_dependencies/MYROBOT_gazebo
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/ament_index/resource_index/parent_prefix_path/MYROBOT_gazebo
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/environment/path.sh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/environment/path.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/local_setup.bash
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/local_setup.sh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/local_setup.zsh
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/package.dsv
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/ament_index/resource_index/packages/MYROBOT_gazebo
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/cmake/MYROBOT_gazeboConfig.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/cmake/MYROBOT_gazeboConfig-version.cmake
+-- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_gazebo/share/MYROBOT_gazebo/package.xml

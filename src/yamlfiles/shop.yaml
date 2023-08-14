@@ -1,0 +1,15 @@
+---
+- Store:
+    Bakery:
+      - 'Sourdough loaf'
+      - 'Bagels'
+    Cheesemonger:
+      - 'Blue cheese'
+      - 'Feta'
+- Flour
+- Water
+- Salt
+- Sugar:
+    - caster
+    - granulated
+    - icing

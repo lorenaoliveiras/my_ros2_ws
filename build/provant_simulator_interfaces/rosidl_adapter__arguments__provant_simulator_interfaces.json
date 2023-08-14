@@ -1,0 +1,11 @@
+{
+  "package_name": "provant_simulator_interfaces",
+  "non_idl_tuples": [
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:msg/Actuator.msg",
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:msg/Empty.msg",
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:msg/Header.msg",
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:msg/StepClock.msg",
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:msg/Float64Array.msg",
+    "/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_interfaces:srv/ControlGroupRegister.srv"
+  ]
+}

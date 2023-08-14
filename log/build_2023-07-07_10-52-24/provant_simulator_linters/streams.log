@@ -1,0 +1,21 @@
+[0.016s] Invoking command in '/home/lorena/my_ros2_ws/build/provant_simulator_linters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/provant_simulator_linters -- -j12 -l12
+[0.032s] Invoked command in '/home/lorena/my_ros2_ws/build/provant_simulator_linters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/provant_simulator_linters -- -j12 -l12
+[0.054s] Invoking command in '/home/lorena/my_ros2_ws/build/provant_simulator_linters': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/provant_simulator_linters
+[0.057s] -- Install configuration: ""
+[0.057s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/package_run_dependencies/provant_simulator_linters
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/parent_prefix_path/provant_simulator_linters
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/ament_prefix_path.sh
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/ament_prefix_path.dsv
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/path.sh
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/path.dsv
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.bash
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.sh
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.zsh
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.dsv
+[0.058s] -- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/package.dsv
+[0.058s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/packages/provant_simulator_linters
+[0.059s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.059s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig.cmake
+[0.059s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig-version.cmake
+[0.059s] -- Up-to-date: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/package.xml
+[0.060s] Invoked command in '/home/lorena/my_ros2_ws/build/provant_simulator_linters' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/provant_simulator_linters

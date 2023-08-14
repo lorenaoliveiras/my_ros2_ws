@@ -1,0 +1,6 @@
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/SensorState.idl
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/Sound.idl
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:msg/VersionInfo.idl
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:srv/Sound.idl
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:srv/Dqn.idl
+/home/lorena/my_ros2_ws/src/build/turtlebot3_msgs/rosidl_adapter/turtlebot3_msgs:action/Patrol.idl

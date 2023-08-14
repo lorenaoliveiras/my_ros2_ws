@@ -1,0 +1,98 @@
+[1.237s] Invoking command in '/home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_utils/provant_simulator_launch': PYTHONPATH=/home/lorena/my_ros2_ws/build/provant_simulator_launch/prefix_override:/home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../../build/provant_simulator_launch build --build-base /home/lorena/my_ros2_ws/build/provant_simulator_launch/build install --record /home/lorena/my_ros2_ws/build/provant_simulator_launch/install.log --single-version-externally-managed
+[1.494s] running egg_info
+[1.494s] creating ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info
+[1.495s] writing ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/PKG-INFO
+[1.495s] writing dependency_links to ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/dependency_links.txt
+[1.495s] writing entry points to ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/entry_points.txt
+[1.495s] writing requirements to ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/requires.txt
+[1.495s] writing top-level names to ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/top_level.txt
+[1.497s] writing manifest file '../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/SOURCES.txt'
+[1.523s] reading manifest file '../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/SOURCES.txt'
+[1.523s] writing manifest file '../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info/SOURCES.txt'
+[1.524s] running build
+[1.524s] running build_py
+[1.524s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build
+[1.524s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib
+[1.524s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch
+[1.524s] copying provant_simulator_launch/mytest.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch
+[1.524s] copying provant_simulator_launch/__init__.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch
+[1.524s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.525s] copying provant_simulator_launch/substitutions/xacro_str.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.525s] copying provant_simulator_launch/substitutions/xacro_file.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.525s] copying provant_simulator_launch/substitutions/yaml_msg_str.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.525s] copying provant_simulator_launch/substitutions/__init__.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.526s] copying provant_simulator_launch/substitutions/jinja_str.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.526s] copying provant_simulator_launch/substitutions/callable.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.526s] copying provant_simulator_launch/substitutions/gazebo_xml.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.526s] copying provant_simulator_launch/substitutions/read_file.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.527s] copying provant_simulator_launch/substitutions/join_substitution.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.527s] copying provant_simulator_launch/substitutions/gazebo_urdf.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.527s] copying provant_simulator_launch/substitutions/jinja_file.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions
+[1.527s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils
+[1.527s] copying provant_simulator_launch/utils/xml_utils.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils
+[1.528s] copying provant_simulator_launch/utils/__init__.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils
+[1.528s] copying provant_simulator_launch/utils/dict_utils.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils
+[1.528s] creating /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions
+[1.528s] copying provant_simulator_launch/actions/execute_in_sequence.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions
+[1.528s] copying provant_simulator_launch/actions/__init__.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions
+[1.528s] copying provant_simulator_launch/actions/kill_process.py -> /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions
+[1.529s] running install
+[1.530s] running install_lib
+[1.531s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch
+[1.531s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/mytest.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch
+[1.532s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/xacro_str.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/xacro_file.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/yaml_msg_str.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/__init__.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/jinja_str.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/callable.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/gazebo_xml.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/read_file.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/join_substitution.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/gazebo_urdf.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/substitutions/jinja_file.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions
+[1.532s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils/xml_utils.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils/__init__.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/utils/dict_utils.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/__init__.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch
+[1.533s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions/execute_in_sequence.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions/__init__.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions
+[1.533s] copying /home/lorena/my_ros2_ws/build/provant_simulator_launch/build/lib/provant_simulator_launch/actions/kill_process.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions
+[1.534s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/mytest.py to mytest.cpython-38.pyc
+[1.535s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/xacro_str.py to xacro_str.cpython-38.pyc
+[1.536s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/xacro_file.py to xacro_file.cpython-38.pyc
+[1.536s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/yaml_msg_str.py to yaml_msg_str.cpython-38.pyc
+[1.536s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/__init__.py to __init__.cpython-38.pyc
+[1.537s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/jinja_str.py to jinja_str.cpython-38.pyc
+[1.537s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/callable.py to callable.cpython-38.pyc
+[1.537s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/gazebo_xml.py to gazebo_xml.cpython-38.pyc
+[1.540s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/read_file.py to read_file.cpython-38.pyc
+[1.540s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/join_substitution.py to join_substitution.cpython-38.pyc
+[1.540s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/gazebo_urdf.py to gazebo_urdf.cpython-38.pyc
+[1.540s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/substitutions/jinja_file.py to jinja_file.cpython-38.pyc
+[1.540s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils/xml_utils.py to xml_utils.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils/__init__.py to __init__.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/utils/dict_utils.py to dict_utils.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/__init__.py to __init__.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions/execute_in_sequence.py to execute_in_sequence.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions/__init__.py to __init__.cpython-38.pyc
+[1.541s] byte-compiling /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch/actions/kill_process.py to kill_process.cpython-38.pyc
+[1.541s] running install_data
+[1.541s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/ament_index
+[1.541s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/ament_index/resource_index
+[1.541s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/ament_index/resource_index/packages
+[1.542s] copying resource/provant_simulator_launch -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/ament_index/resource_index/packages
+[1.542s] copying package.xml -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch
+[1.542s] creating /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.542s] copying launch/gazebo.launch.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.542s] copying launch/spawn_urdf_model.launch.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.542s] copying launch/control_group.launch.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.542s] copying launch/quadrotor_demo.launch.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.543s] copying launch/simulation_manager.launch.py -> /home/lorena/my_ros2_ws/install/provant_simulator_launch/share/provant_simulator_launch/launch
+[1.543s] running install_egg_info
+[1.544s] Copying ../../../../../../build/provant_simulator_launch/provant_simulator_launch.egg-info to /home/lorena/my_ros2_ws/install/provant_simulator_launch/lib/python3.8/site-packages/provant_simulator_launch-0.1.0-py3.8.egg-info
+[1.545s] running install_scripts
+[1.564s] writing list of installed files to '/home/lorena/my_ros2_ws/build/provant_simulator_launch/install.log'

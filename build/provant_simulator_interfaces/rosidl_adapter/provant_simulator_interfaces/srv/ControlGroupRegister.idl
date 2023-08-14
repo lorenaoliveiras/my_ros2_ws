@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from provant_simulator_interfaces/srv/ControlGroupRegister.srv
+// generated code does not contain a copyright notice
+
+
+module provant_simulator_interfaces {
+  module srv {
+    struct ControlGroupRegister_Request {
+      string group_namespace;
+    };
+    struct ControlGroupRegister_Response {
+      boolean result;
+
+      string message;
+    };
+  };
+};

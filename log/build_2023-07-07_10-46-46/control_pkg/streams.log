@@ -1,0 +1,19 @@
+[2.893s] Invoking command in '/home/lorena/my_ros2_ws/src/control_pkg': PYTHONPATH=/home/lorena/my_ros2_ws/build/control_pkg/prefix_override:/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_pkg build --build-base /home/lorena/my_ros2_ws/build/control_pkg/build install --record /home/lorena/my_ros2_ws/build/control_pkg/install.log --install-scripts $base/lib/control_pkg --single-version-externally-managed
+[3.314s] running egg_info
+[3.316s] writing ../../build/control_pkg/control_pkg.egg-info/PKG-INFO
+[3.320s] writing dependency_links to ../../build/control_pkg/control_pkg.egg-info/dependency_links.txt
+[3.320s] writing entry points to ../../build/control_pkg/control_pkg.egg-info/entry_points.txt
+[3.320s] writing requirements to ../../build/control_pkg/control_pkg.egg-info/requires.txt
+[3.320s] writing top-level names to ../../build/control_pkg/control_pkg.egg-info/top_level.txt
+[3.397s] reading manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+[3.399s] writing manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+[3.399s] running build
+[3.399s] running build_py
+[3.400s] running install
+[3.402s] running install_lib
+[3.404s] running install_data
+[3.406s] running install_egg_info
+[3.408s] removing '/home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[3.409s] Copying ../../build/control_pkg/control_pkg.egg-info to /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg-0.0.0-py3.8.egg-info
+[3.410s] running install_scripts
+[3.447s] writing list of installed files to '/home/lorena/my_ros2_ws/build/control_pkg/install.log'

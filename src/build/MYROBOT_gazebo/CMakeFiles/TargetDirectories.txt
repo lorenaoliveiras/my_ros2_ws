@@ -1,0 +1,9 @@
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/install/local.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/install.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/list_install_components.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/rebuild_cache.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/edit_cache.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/test.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/install/strip.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/MYROBOT_gazebo_uninstall.dir
+/home/lorena/my_ros2_ws/src/build/MYROBOT_gazebo/CMakeFiles/uninstall.dir

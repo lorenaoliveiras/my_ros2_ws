@@ -1,0 +1,40 @@
+{
+  "package_name": "provant_simulator_interfaces",
+  "output_dir": "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_generator_c/provant_simulator_interfaces",
+  "template_dir": "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:msg/Actuator.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:msg/Empty.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:msg/Header.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:msg/StepClock.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:msg/Float64Array.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces:srv/ControlGroupRegister.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/ros/foxy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/foxy/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../../../lib/python3.8/site-packages/rosidl_generator_c/__init__.py",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/opt/ros/foxy/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/msg/Actuator.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/msg/Empty.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/msg/Header.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/msg/StepClock.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/msg/Float64Array.idl",
+    "/home/lorena/my_ros2_ws/build/provant_simulator_interfaces/rosidl_adapter/provant_simulator_interfaces/srv/ControlGroupRegister.idl",
+    "/opt/ros/foxy/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/foxy/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

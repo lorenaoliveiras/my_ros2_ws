@@ -1,0 +1,42 @@
+[0.015s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3_simulations/turtlebot3_simulations -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_simulations
+[0.100s] -- The C compiler identification is GNU 9.4.0
+[0.151s] -- The CXX compiler identification is GNU 9.4.0
+[0.156s] -- Check for working C compiler: /usr/bin/cc
+[0.203s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.204s] -- Detecting C compiler ABI info
+[0.252s] -- Detecting C compiler ABI info - done
+[0.260s] -- Detecting C compile features
+[0.261s] -- Detecting C compile features - done
+[0.263s] -- Check for working CXX compiler: /usr/bin/c++
+[0.319s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.319s] -- Detecting CXX compiler ABI info
+[0.376s] -- Detecting CXX compiler ABI info - done
+[0.384s] -- Detecting CXX compile features
+[0.384s] -- Detecting CXX compile features - done
+[0.392s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.426s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.427s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.727s] -- Configuring done
+[0.729s] -- Generating done
+[0.730s] -- Build files have been written to: /home/lorena/my_ros2_ws/build/turtlebot3_simulations
+[0.733s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3_simulations/turtlebot3_simulations -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_simulations
+[0.734s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_simulations -- -j12 -l12
+[0.763s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_simulations -- -j12 -l12
+[0.778s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_simulations
+[0.784s] -- Install configuration: ""
+[0.785s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+[0.785s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+[0.785s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml
+[0.789s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_simulations' returned '0': AMENT_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_description:/opt/ros/foxy LD_LIBRARY_PATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/lorena/my_ros2_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_simulations

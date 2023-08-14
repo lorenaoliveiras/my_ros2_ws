@@ -1,0 +1,21 @@
+[0.050s] Invoking command in '/home/lorena/my_ros2_ws/src/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/src/install/turtlebot3_navigation2
+[0.611s] -- The C compiler identification is GNU 9.4.0
+[0.611s] -- The CXX compiler identification is GNU 9.4.0
+[0.611s] -- Check for working C compiler: /usr/bin/cc
+[0.611s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.611s] -- Detecting C compiler ABI info
+[0.611s] -- Detecting C compiler ABI info - done
+[0.612s] -- Detecting C compile features
+[0.612s] -- Detecting C compile features - done
+[0.612s] -- Check for working CXX compiler: /usr/bin/c++
+[0.612s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.612s] -- Detecting CXX compiler ABI info
+[0.612s] -- Detecting CXX compiler ABI info - done
+[0.612s] -- Detecting CXX compile features
+[0.612s] -- Detecting CXX compile features - done
+[0.612s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.616s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.616s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.820s] -- Configuring done
+[0.822s] -- Generating done
+[0.823s] -- Build files have been written to: /home/lorena/my_ros2_ws/src/build/turtlebot3_navigation2

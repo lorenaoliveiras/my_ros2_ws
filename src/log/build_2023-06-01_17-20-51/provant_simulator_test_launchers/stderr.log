@@ -1,0 +1,21 @@
+CMake Error at /home/lorena/my_ros2_ws/src/install/provant_simulator_linters/share/provant_simulator_linters/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package):
+  By not providing "Findament_cmake_clang_format.cmake" in CMAKE_MODULE_PATH
+  this project has asked CMake to find a package configuration file provided
+  by "ament_cmake_clang_format", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "ament_cmake_clang_format" with any of the following names:
+
+    ament_cmake_clang_formatConfig.cmake
+    ament_cmake_clang_format-config.cmake
+
+  Add the installation prefix of "ament_cmake_clang_format" to
+  CMAKE_PREFIX_PATH or set "ament_cmake_clang_format_DIR" to a directory
+  containing one of the above files.  If "ament_cmake_clang_format" provides
+  a separate development package or SDK, be sure it has been installed.
+Call Stack (most recent call first):
+  /home/lorena/my_ros2_ws/src/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig.cmake:41 (include)
+  /opt/ros/foxy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:36 (find_package)
+  CMakeLists.txt:16 (ament_lint_auto_find_test_dependencies)
+
+

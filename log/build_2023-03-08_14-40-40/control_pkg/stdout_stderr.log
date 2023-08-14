@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/control_pkg/control_pkg.egg-info
+writing ../../build/control_pkg/control_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/control_pkg/control_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/control_pkg/control_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/control_pkg/control_pkg.egg-info/requires.txt
+writing top-level names to ../../build/control_pkg/control_pkg.egg-info/top_level.txt
+writing manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/control_pkg/control_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lorena/my_ros2_ws/build/control_pkg/build
+creating /home/lorena/my_ros2_ws/build/control_pkg/build/lib
+creating /home/lorena/my_ros2_ws/build/control_pkg/build/lib/control_pkg
+copying control_pkg/__init__.py -> /home/lorena/my_ros2_ws/build/control_pkg/build/lib/control_pkg
+running install
+running install_lib
+creating /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg
+copying /home/lorena/my_ros2_ws/build/control_pkg/build/lib/control_pkg/__init__.py -> /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg
+byte-compiling /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/lorena/my_ros2_ws/install/control_pkg/share/ament_index
+creating /home/lorena/my_ros2_ws/install/control_pkg/share/ament_index/resource_index
+creating /home/lorena/my_ros2_ws/install/control_pkg/share/ament_index/resource_index/packages
+copying resource/control_pkg -> /home/lorena/my_ros2_ws/install/control_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/lorena/my_ros2_ws/install/control_pkg/share/control_pkg
+running install_egg_info
+Copying ../../build/control_pkg/control_pkg.egg-info to /home/lorena/my_ros2_ws/install/control_pkg/lib/python3.8/site-packages/control_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/lorena/my_ros2_ws/build/control_pkg/install.log'

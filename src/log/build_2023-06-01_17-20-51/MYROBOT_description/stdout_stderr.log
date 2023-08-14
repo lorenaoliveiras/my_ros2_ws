@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/c_cpp_properties.json
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/settings.json
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/urdf/MYROBOT.urdf
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/model.config
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/package_run_dependencies/MYROBOT_description
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/parent_prefix_path/MYROBOT_description
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/path.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/environment/path.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.bash
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.sh
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.zsh
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/package.dsv
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/ament_index/resource_index/packages/MYROBOT_description
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig-version.cmake
+-- Installing: /home/lorena/my_ros2_ws/src/install/MYROBOT_description/share/MYROBOT_description/package.xml

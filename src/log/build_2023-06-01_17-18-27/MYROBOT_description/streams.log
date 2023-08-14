@@ -1,0 +1,26 @@
+[0.329s] Invoking command in '/home/lorena/my_ros2_ws/src/build/MYROBOT_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/MYROBOT_description -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/src/install/MYROBOT_description
+[0.600s] -- The C compiler identification is GNU 9.4.0
+[0.600s] -- The CXX compiler identification is GNU 9.4.0
+[0.600s] -- Check for working C compiler: /usr/bin/cc
+[0.600s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.600s] -- Detecting C compiler ABI info
+[0.618s] -- Detecting C compiler ABI info - done
+[0.630s] -- Detecting C compile features
+[0.630s] -- Detecting C compile features - done
+[0.633s] -- Check for working CXX compiler: /usr/bin/c++
+[0.691s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.692s] -- Detecting CXX compiler ABI info
+[0.750s] -- Detecting CXX compiler ABI info - done
+[0.757s] -- Detecting CXX compile features
+[0.758s] -- Detecting CXX compile features - done
+[0.760s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.779s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.779s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.924s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.955s] WARNING: Package name "MYROBOT_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.979s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.981s] -- Added test 'lint_cmake' to check CMake code style
+[0.982s] -- Added test 'xmllint' to check XML markup files
+[0.983s] -- Configuring done
+[0.984s] -- Generating done
+[0.985s] -- Build files have been written to: /home/lorena/my_ros2_ws/src/build/MYROBOT_description

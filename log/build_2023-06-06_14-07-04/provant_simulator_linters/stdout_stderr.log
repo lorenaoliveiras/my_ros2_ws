@@ -1,0 +1,24 @@
+-- Found ament_cmake_core: 0.9.11 (/opt/ros/foxy/share/ament_cmake_core/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_cmake_export_dependencies: 0.9.11 (/opt/ros/foxy/share/ament_cmake_export_dependencies/cmake)
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/lorena/my_ros2_ws/build/provant_simulator_linters
+-- Install configuration: ""
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/package_run_dependencies/provant_simulator_linters
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/parent_prefix_path/provant_simulator_linters
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/ament_prefix_path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/ament_prefix_path.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/path.sh
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/environment/path.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.bash
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.sh
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.zsh
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/local_setup.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/package.dsv
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/ament_index/resource_index/packages/provant_simulator_linters
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig.cmake
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig-version.cmake
+-- Installing: /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/package.xml

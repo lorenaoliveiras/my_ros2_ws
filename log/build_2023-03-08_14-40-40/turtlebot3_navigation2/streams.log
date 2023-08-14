@@ -1,0 +1,53 @@
+[0.046s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_navigation2
+[0.519s] -- The C compiler identification is GNU 9.4.0
+[0.519s] -- The CXX compiler identification is GNU 9.4.0
+[0.520s] -- Check for working C compiler: /usr/bin/cc
+[0.520s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.520s] -- Detecting C compiler ABI info
+[0.520s] -- Detecting C compiler ABI info - done
+[0.520s] -- Detecting C compile features
+[0.520s] -- Detecting C compile features - done
+[0.520s] -- Check for working CXX compiler: /usr/bin/c++
+[0.520s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.520s] -- Detecting CXX compiler ABI info
+[0.520s] -- Detecting CXX compiler ABI info - done
+[0.520s] -- Detecting CXX compile features
+[0.520s] -- Detecting CXX compile features - done
+[0.520s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.520s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.523s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.778s] -- Configuring done
+[0.779s] -- Generating done
+[0.780s] -- Build files have been written to: /home/lorena/my_ros2_ws/build/turtlebot3_navigation2
+[0.789s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/turtlebot3_navigation2
+[0.789s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_navigation2 -- -j12 -l12
+[0.892s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/turtlebot3_navigation2 -- -j12 -l12
+[0.979s] Invoking command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_navigation2
+[1.019s] -- Install configuration: ""
+[1.019s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[1.019s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[1.020s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[1.020s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+[1.021s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+[1.021s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[1.023s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[1.023s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[1.024s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[1.025s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[1.026s] -- Installing: /home/lorena/my_ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[1.074s] Invoked command in '/home/lorena/my_ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/turtlebot3_navigation2

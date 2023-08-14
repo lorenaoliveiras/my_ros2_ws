@@ -1,0 +1,8 @@
+source;share/MYROBOT_description/hook/cmake_prefix_path.ps1
+source;share/MYROBOT_description/hook/cmake_prefix_path.dsv
+source;share/MYROBOT_description/hook/cmake_prefix_path.sh
+source;share/MYROBOT_description/local_setup.bash
+source;share/MYROBOT_description/local_setup.dsv
+source;share/MYROBOT_description/local_setup.ps1
+source;share/MYROBOT_description/local_setup.sh
+source;share/MYROBOT_description/local_setup.zsh

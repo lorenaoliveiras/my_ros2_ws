@@ -1,0 +1,20 @@
+[2.891s] Invoking command in '/home/lorena/my_ros2_ws/src/turtlebot3/turtlebot3_teleop': PYTHONPATH=/home/lorena/my_ros2_ws/build/turtlebot3_teleop/prefix_override:/home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_teleop build --build-base /home/lorena/my_ros2_ws/build/turtlebot3_teleop/build install --record /home/lorena/my_ros2_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
+[3.464s] running egg_info
+[3.465s] writing ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[3.476s] writing dependency_links to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[3.476s] writing entry points to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[3.476s] writing requirements to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[3.477s] writing top-level names to ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[3.544s] reading manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.547s] writing manifest file '../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[3.547s] running build
+[3.547s] running build_py
+[3.548s] running install
+[3.551s] running install_lib
+[3.561s] running install_data
+[3.562s] running install_egg_info
+[3.564s] removing '/home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop-2.1.4-py3.8.egg-info' (and everything under it)
+[3.564s] Copying ../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/python3.8/site-packages/turtlebot3_teleop-2.1.4-py3.8.egg-info
+[3.567s] running install_scripts
+[3.598s] Installing teleop_keyboard script to /home/lorena/my_ros2_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[3.599s] writing list of installed files to '/home/lorena/my_ros2_ws/build/turtlebot3_teleop/install.log'

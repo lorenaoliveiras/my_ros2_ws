@@ -1,0 +1,27 @@
+[0.233s] Invoking command in '/home/lorena/my_ros2_ws/build/provant_quadrotor': CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/provant_simulator_linters:/home/lorena/my_ros2_ws/install/turtlebot3:/home/lorena/my_ros2_ws/install/turtlebot3_simulations:/home/lorena/my_ros2_ws/install/turtlebot3_bringup:/home/lorena/my_ros2_ws/install/turtlebot3_node:/home/lorena/my_ros2_ws/install/turtlebot3_navigation2:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_description:/home/lorena/my_ros2_ws/install/turtlebot3_cartographer:/home/lorena/my_ros2_ws/install/dynamixel_sdk:/home/lorena/my_ros2_ws/install/MYROBOT_gazebo:/home/lorena/my_ros2_ws/install/MYROBOT_description:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_models/provant_quadrotor -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/provant_quadrotor
+[0.346s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.347s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.768s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.919s] [31mCMake Error at /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/ament_cmake_export_dependencies-extras.cmake:21 (find_package):
+[0.919s]   By not providing "Findament_cmake_clang_format.cmake" in CMAKE_MODULE_PATH
+[0.919s]   this project has asked CMake to find a package configuration file provided
+[0.919s]   by "ament_cmake_clang_format", but CMake did not find one.
+[0.919s] 
+[0.920s]   Could not find a package configuration file provided by
+[0.920s]   "ament_cmake_clang_format" with any of the following names:
+[0.920s] 
+[0.920s]     ament_cmake_clang_formatConfig.cmake
+[0.920s]     ament_cmake_clang_format-config.cmake
+[0.920s] 
+[0.921s]   Add the installation prefix of "ament_cmake_clang_format" to
+[0.921s]   CMAKE_PREFIX_PATH or set "ament_cmake_clang_format_DIR" to a directory
+[0.921s]   containing one of the above files.  If "ament_cmake_clang_format" provides
+[0.921s]   a separate development package or SDK, be sure it has been installed.
+[0.921s] Call Stack (most recent call first):
+[0.921s]   /home/lorena/my_ros2_ws/install/provant_simulator_linters/share/provant_simulator_linters/cmake/provant_simulator_lintersConfig.cmake:41 (include)
+[0.922s]   /opt/ros/foxy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:36 (find_package)
+[0.922s]   CMakeLists.txt:20 (ament_lint_auto_find_test_dependencies)
+[0.922s] 
+[0.922s] [0m
+[0.923s] -- Configuring incomplete, errors occurred!
+[0.930s] Invoked command in '/home/lorena/my_ros2_ws/build/provant_quadrotor' returned '1': CMAKE_PREFIX_PATH=/home/lorena/my_ros2_ws/install/provant_simulator_linters:/home/lorena/my_ros2_ws/install/turtlebot3:/home/lorena/my_ros2_ws/install/turtlebot3_simulations:/home/lorena/my_ros2_ws/install/turtlebot3_bringup:/home/lorena/my_ros2_ws/install/turtlebot3_node:/home/lorena/my_ros2_ws/install/turtlebot3_navigation2:/home/lorena/my_ros2_ws/install/turtlebot3_fake_node:/home/lorena/my_ros2_ws/install/turtlebot3_msgs:/home/lorena/my_ros2_ws/install/turtlebot3_gazebo:/home/lorena/my_ros2_ws/install/turtlebot3_description:/home/lorena/my_ros2_ws/install/turtlebot3_cartographer:/home/lorena/my_ros2_ws/install/dynamixel_sdk:/home/lorena/my_ros2_ws/install/MYROBOT_gazebo:/home/lorena/my_ros2_ws/install/MYROBOT_description:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake /home/lorena/my_ros2_ws/src/provant_simulator/provant_simulator_models/provant_quadrotor -DCMAKE_INSTALL_PREFIX=/home/lorena/my_ros2_ws/install/provant_quadrotor

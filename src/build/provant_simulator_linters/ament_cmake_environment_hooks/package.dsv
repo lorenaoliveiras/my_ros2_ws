@@ -1,0 +1,4 @@
+source;share/provant_simulator_linters/local_setup.bash
+source;share/provant_simulator_linters/local_setup.dsv
+source;share/provant_simulator_linters/local_setup.sh
+source;share/provant_simulator_linters/local_setup.zsh

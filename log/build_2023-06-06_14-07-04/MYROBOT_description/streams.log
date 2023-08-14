@@ -1,0 +1,48 @@
+[0.218s] Invoking command in '/home/lorena/my_ros2_ws/build/MYROBOT_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/MYROBOT_description -- -j12 -l12
+[0.625s] -- The C compiler identification is GNU 9.4.0
+[0.625s] -- The CXX compiler identification is GNU 9.4.0
+[0.625s] -- Detecting C compiler ABI info
+[0.625s] -- Detecting C compiler ABI info - done
+[0.625s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.625s] -- Detecting C compile features
+[0.625s] -- Detecting C compile features - done
+[0.625s] -- Detecting CXX compiler ABI info
+[0.625s] -- Detecting CXX compiler ABI info - done
+[0.626s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.626s] -- Detecting CXX compile features
+[0.626s] -- Detecting CXX compile features - done
+[0.626s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.626s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.626s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.650s] WARNING: Package name "MYROBOT_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.671s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.675s] -- Added test 'lint_cmake' to check CMake code style
+[0.677s] -- Added test 'xmllint' to check XML markup files
+[0.680s] -- Configuring done (0.4s)
+[0.686s] -- Generating done (0.0s)
+[0.686s] -- Build files have been written to: /home/lorena/my_ros2_ws/build/MYROBOT_description
+[0.709s] Invoked command in '/home/lorena/my_ros2_ws/build/MYROBOT_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --build /home/lorena/my_ros2_ws/build/MYROBOT_description -- -j12 -l12
+[0.763s] Invoking command in '/home/lorena/my_ros2_ws/build/MYROBOT_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/MYROBOT_description
+[0.786s] -- Install configuration: ""
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/c_cpp_properties.json
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/.vscode/settings.json
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/urdf/MYROBOT.urdf
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/model.config
+[0.786s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/package_run_dependencies/MYROBOT_description
+[0.786s] -- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/parent_prefix_path/MYROBOT_description
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.sh
+[0.787s] -- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/ament_prefix_path.dsv
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/path.sh
+[0.787s] -- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/environment/path.dsv
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.bash
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.sh
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.zsh
+[0.787s] -- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/local_setup.dsv
+[0.787s] -- Installing: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/package.dsv
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/ament_index/resource_index/packages/MYROBOT_description
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig-version.cmake
+[0.787s] -- Up-to-date: /home/lorena/my_ros2_ws/install/MYROBOT_description/share/MYROBOT_description/package.xml
+[0.805s] Invoked command in '/home/lorena/my_ros2_ws/build/MYROBOT_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lorena/my_ros2_ws/install/turtlebot3_teleop:/home/lorena/my_ros2_ws/install/turtlebot3_example:/home/lorena/my_ros2_ws/install/control_pkg:/opt/ros/foxy /usr/bin/cmake --install /home/lorena/my_ros2_ws/build/MYROBOT_description

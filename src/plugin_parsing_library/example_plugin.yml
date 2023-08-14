@@ -1,0 +1,67 @@
+name: Test plugin
+description: A test plugin to illustrate the plugin description file
+lib_name: libprovant_test_plugin
+target: gazebo
+type: model_plugin
+version: 0.0.1
+parameters:
+- name: parameter1
+  human_readable_name: Parameter 1
+  tag_name: parameter1
+  description: An example of a string parameter
+  type: string
+  required: true
+  restrictions: []
+- name: parameter2
+  human_readable_name: Parameter 2
+  tag_name: parameter2
+  description: An example of a integer parameter
+  type: int
+  required: false
+  default: '0'
+  restrictions:
+  - type: greater_or_equal_than
+    value: '0'
+  - type: smaller_than
+    value: '10'
+- name: parameter3
+  human_readable_name: Parameter 3
+  tag_name: parameter3
+  description: An example of a double parameter
+  type: double
+  required: true
+  restrictions:
+  - type: positive
+- name: parameter4
+  human_readable_name: Parameter 4
+  tag_name: parameter4
+  description: An example of a topic_name parameter
+  type: topic_name
+  required: false
+  default: /provant
+  restrictions: []
+- name: parameter5
+  human_readable_name: Parameter 5
+  tag_name: parameter5
+  description: An example of a link_reference parameter
+  type: link_ref
+  required: true
+  restrictions: []
+- name: parameter5
+  human_readable_name: Parameter 5
+  tag_name: parameter5
+  description: An example of a joint_reference parameter
+  type: joint_ref
+  required: true
+  restrictions: []
+- name: parameter6
+  human_readable_name: Parameter 6
+  tag_name: parameter6
+  description: Another example of a string parameter
+  type: string
+  required: true
+  restrictions:
+  - type: max_size
+    value: '300'
+  - type: validator
+    value: ^((([!#$%&'*+\-/=?^_`{|}~\w])|([!#$%&'*+\-/=?^_`{|}~\w][!#$%&'*+\-/=?^_`{|}~\.\w]{0,}[!#$%&'*+\-/=?^_`{|}~\w]))[@]\w+([-.]\w+)*\.\w+([-.]\w+)*)$
